@@ -10,7 +10,7 @@ LinkedIn web scrapper used to list out information about all the employees of gi
 >update search_query (update CompanyName) <br />
 >update chrome_web_driver (update path) <br />
 
-## You are all set to run the file now :+1:
+## You are all set to run the script :+1:
 
 ## Run Script
 >python linkedin-profile.py
