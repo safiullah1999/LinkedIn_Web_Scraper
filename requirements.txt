@@ -1,0 +1,2 @@
+parsel==1.6.0
+selenium==4.1.0
