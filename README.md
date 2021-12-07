@@ -5,10 +5,10 @@ LinkedIn web scrapper used to list out information about all the employees of gi
 >pip install -r requirements.txt
 
 ## Update parameters.py
->update username/email
->update password
->update search_query (update CompanyName)
->update chrome_web_driver (update path)
+>update username/email <br />
+>update password <br />
+>update search_query (update CompanyName) <br />
+>update chrome_web_driver (update path) <br />
 
 ## You are all set to run the file now :+1:
 
