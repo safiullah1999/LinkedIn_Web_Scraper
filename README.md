@@ -18,5 +18,5 @@ LinkedIn web scrapper used to list out information about all the employees of gi
 ## Result
 
 <!-- ![alt text](https://github.com/safiullah1999/LinkedIn_Web_Scraper.git/result_image.PNG) -->
-![Result](https://github.com/safiullah1999/LinkedIn_Web_Scraper/result_image.PNG?raw=true)
-![Result](https://github.com/safiullah1999/LinkedIn_Web_Scraper/result_image.PNG?raw=true)
+![Result](https://github.com/safiullah1999/LinkedIn_Web_Scraper/blob/main/result_image.PNG?raw=true)
+<!-- ![Result](https://github.com/safiullah1999/LinkedIn_Web_Scraper/result_image.PNG?raw=true) -->
